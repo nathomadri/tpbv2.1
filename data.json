@@ -1,0 +1,1520 @@
+{
+  "events": [
+    {
+      "tournament": {
+        "name": "Premier League",
+        "slug": "premier-league",
+        "category": {
+          "id": 805,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "name": "Kenya",
+          "slug": "kenya",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "flag": "kenya",
+          "alpha2": "KE"
+        },
+        "uniqueTournament": {
+          "name": "Kenyan Premier League",
+          "slug": "premier-league",
+          "primaryColorHex": "#eb1a23",
+          "secondaryColorHex": "#3ebc7a",
+          "category": {
+            "id": 805,
+            "country": {
+              "alpha2": "KE",
+              "alpha3": "KEN",
+              "name": "Kenya",
+              "slug": "kenya"
+            },
+            "name": "Kenya",
+            "slug": "kenya",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "flag": "kenya",
+            "alpha2": "KE"
+          },
+          "userCount": 6133,
+          "id": 1644,
+          "country": {},
+          "hasPerformanceGraphFeature": true,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "isGroup": false,
+        "isLive": false,
+        "id": 17654
+      },
+      "season": {
+        "name": "Premier League 24/25",
+        "year": "24/25",
+        "editor": false,
+        "id": 65071
+      },
+      "roundInfo": {
+        "round": 25
+      },
+      "customId": "CYHcsFhIc",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Shabana FC",
+        "slug": "shabana-fc",
+        "shortName": "Shabana FC",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2265,
+        "nameCode": "SHA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 332880,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "id": 332427,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "name": "Muranga Seal",
+        "slug": "muranga-seal",
+        "shortName": "Muranga Seal",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1106,
+        "nameCode": "MUR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "crowdsourcingDataDisplayEnabled": false,
+      "id": 13656051,
+      "startTimestamp": 1743246000,
+      "slug": "shabana-fc-muranga-seal",
+      "finalResultOnly": false,
+      "feedLocked": false,
+      "isEditor": false
+    },
+    {
+      "tournament": {
+        "name": "Premier League",
+        "slug": "premier-league",
+        "category": {
+          "id": 805,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "name": "Kenya",
+          "slug": "kenya",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "flag": "kenya",
+          "alpha2": "KE"
+        },
+        "uniqueTournament": {
+          "name": "Kenyan Premier League",
+          "slug": "premier-league",
+          "primaryColorHex": "#eb1a23",
+          "secondaryColorHex": "#3ebc7a",
+          "category": {
+            "id": 805,
+            "country": {
+              "alpha2": "KE",
+              "alpha3": "KEN",
+              "name": "Kenya",
+              "slug": "kenya"
+            },
+            "name": "Kenya",
+            "slug": "kenya",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "flag": "kenya",
+            "alpha2": "KE"
+          },
+          "userCount": 6133,
+          "id": 1644,
+          "country": {},
+          "hasPerformanceGraphFeature": true,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "isGroup": false,
+        "isLive": false,
+        "id": 17654
+      },
+      "season": {
+        "name": "Premier League 24/25",
+        "year": "24/25",
+        "editor": false,
+        "id": 65071
+      },
+      "roundInfo": {
+        "round": 26
+      },
+      "customId": "zufbsFhIc",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Shabana FC",
+        "slug": "shabana-fc",
+        "shortName": "Shabana FC",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2265,
+        "nameCode": "SHA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 332880,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "id": 138474,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "name": "Bandari FC",
+        "slug": "bandari-fc",
+        "shortName": "Bandari",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1527,
+        "nameCode": "BAN",
+        "national": false,
+        "type": 0,
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#3050c6",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي كرة القدم بانداري",
+            "hi": "बान्दारी ऍफ़सी"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "crowdsourcingDataDisplayEnabled": false,
+      "id": 12656739,
+      "startTimestamp": 1743854400,
+      "slug": "shabana-fc-bandari-fc",
+      "finalResultOnly": false,
+      "feedLocked": false,
+      "isEditor": false
+    },
+    {
+      "tournament": {
+        "name": "Premier League",
+        "slug": "premier-league",
+        "category": {
+          "id": 805,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "name": "Kenya",
+          "slug": "kenya",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "flag": "kenya",
+          "alpha2": "KE"
+        },
+        "uniqueTournament": {
+          "name": "Kenyan Premier League",
+          "slug": "premier-league",
+          "primaryColorHex": "#eb1a23",
+          "secondaryColorHex": "#3ebc7a",
+          "category": {
+            "id": 805,
+            "country": {
+              "alpha2": "KE",
+              "alpha3": "KEN",
+              "name": "Kenya",
+              "slug": "kenya"
+            },
+            "name": "Kenya",
+            "slug": "kenya",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "flag": "kenya",
+            "alpha2": "KE"
+          },
+          "userCount": 6133,
+          "id": 1644,
+          "country": {},
+          "hasPerformanceGraphFeature": true,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "isGroup": false,
+        "isLive": false,
+        "id": 17654
+      },
+      "season": {
+        "name": "Premier League 24/25",
+        "year": "24/25",
+        "editor": false,
+        "id": 65071
+      },
+      "roundInfo": {
+        "round": 27
+      },
+      "customId": "pqzcsFhIc",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "FC Talanta",
+        "slug": "fc-talanta",
+        "shortName": "FC Talanta",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1151,
+        "nameCode": "TAL",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 310815,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "hi": "ऍफ़सी टालंता"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "awayTeam": {
+        "id": 332880,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "name": "Shabana FC",
+        "slug": "shabana-fc",
+        "shortName": "Shabana FC",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2265,
+        "nameCode": "SHA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "crowdsourcingDataDisplayEnabled": false,
+      "id": 12656748,
+      "startTimestamp": 1744192800,
+      "slug": "shabana-fc-fc-talanta",
+      "finalResultOnly": false,
+      "feedLocked": false,
+      "isEditor": false
+    },
+    {
+      "tournament": {
+        "name": "Premier League",
+        "slug": "premier-league",
+        "category": {
+          "id": 805,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "name": "Kenya",
+          "slug": "kenya",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "flag": "kenya",
+          "alpha2": "KE"
+        },
+        "uniqueTournament": {
+          "name": "Kenyan Premier League",
+          "slug": "premier-league",
+          "primaryColorHex": "#eb1a23",
+          "secondaryColorHex": "#3ebc7a",
+          "category": {
+            "id": 805,
+            "country": {
+              "alpha2": "KE",
+              "alpha3": "KEN",
+              "name": "Kenya",
+              "slug": "kenya"
+            },
+            "name": "Kenya",
+            "slug": "kenya",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "flag": "kenya",
+            "alpha2": "KE"
+          },
+          "userCount": 6133,
+          "id": 1644,
+          "country": {},
+          "hasPerformanceGraphFeature": true,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "isGroup": false,
+        "isLive": false,
+        "id": 17654
+      },
+      "season": {
+        "name": "Premier League 24/25",
+        "year": "24/25",
+        "editor": false,
+        "id": 65071
+      },
+      "roundInfo": {
+        "round": 28
+      },
+      "customId": "LufbsFhIc",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Nairobi City Stars FC",
+        "slug": "nairobi-city-stars-fc",
+        "shortName": "City Stars",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 884,
+        "nameCode": "NCS",
+        "national": false,
+        "type": 0,
+        "id": 138486,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#273887",
+          "secondary": "#f74f00",
+          "text": "#f74f00"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي كرة القدم نايروبي سيتي ستارز",
+            "hi": "नाइरोबी"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "awayTeam": {
+        "id": 332880,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "name": "Shabana FC",
+        "slug": "shabana-fc",
+        "shortName": "Shabana FC",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2265,
+        "nameCode": "SHA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "crowdsourcingDataDisplayEnabled": false,
+      "id": 12656764,
+      "startTimestamp": 1744549200,
+      "slug": "shabana-fc-nairobi-city-stars-fc",
+      "finalResultOnly": false,
+      "feedLocked": false,
+      "isEditor": false
+    },
+    {
+      "tournament": {
+        "name": "Premier League",
+        "slug": "premier-league",
+        "category": {
+          "id": 805,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "name": "Kenya",
+          "slug": "kenya",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "flag": "kenya",
+          "alpha2": "KE"
+        },
+        "uniqueTournament": {
+          "name": "Kenyan Premier League",
+          "slug": "premier-league",
+          "primaryColorHex": "#eb1a23",
+          "secondaryColorHex": "#3ebc7a",
+          "category": {
+            "id": 805,
+            "country": {
+              "alpha2": "KE",
+              "alpha3": "KEN",
+              "name": "Kenya",
+              "slug": "kenya"
+            },
+            "name": "Kenya",
+            "slug": "kenya",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "flag": "kenya",
+            "alpha2": "KE"
+          },
+          "userCount": 6133,
+          "id": 1644,
+          "country": {},
+          "hasPerformanceGraphFeature": true,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "isGroup": false,
+        "isLive": false,
+        "id": 17654
+      },
+      "season": {
+        "name": "Premier League 24/25",
+        "year": "24/25",
+        "editor": false,
+        "id": 65071
+      },
+      "roundInfo": {
+        "round": 29
+      },
+      "customId": "gLdbsFhIc",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Shabana FC",
+        "slug": "shabana-fc",
+        "shortName": "Shabana FC",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2265,
+        "nameCode": "SHA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 332880,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "id": 134306,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "name": "Gor Mahia FC",
+        "slug": "gor-mahia-fc",
+        "shortName": "Gor Mahia",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 7270,
+        "nameCode": "GOR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#008000",
+          "secondary": "#000000",
+          "text": "#000000"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "نادي كرة القدم غور ماهيا",
+            "ru": "Гор Махиа",
+            "hi": "गोर माहिया ऍफ़सी"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "crowdsourcingDataDisplayEnabled": false,
+      "id": 12656773,
+      "startTimestamp": 1745150400,
+      "slug": "shabana-fc-gor-mahia-fc",
+      "finalResultOnly": false,
+      "feedLocked": false,
+      "isEditor": false
+    },
+    {
+      "tournament": {
+        "name": "Premier League",
+        "slug": "premier-league",
+        "category": {
+          "id": 805,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "name": "Kenya",
+          "slug": "kenya",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "flag": "kenya",
+          "alpha2": "KE"
+        },
+        "uniqueTournament": {
+          "name": "Kenyan Premier League",
+          "slug": "premier-league",
+          "primaryColorHex": "#eb1a23",
+          "secondaryColorHex": "#3ebc7a",
+          "category": {
+            "id": 805,
+            "country": {
+              "alpha2": "KE",
+              "alpha3": "KEN",
+              "name": "Kenya",
+              "slug": "kenya"
+            },
+            "name": "Kenya",
+            "slug": "kenya",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "flag": "kenya",
+            "alpha2": "KE"
+          },
+          "userCount": 6133,
+          "id": 1644,
+          "country": {},
+          "hasPerformanceGraphFeature": true,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "isGroup": false,
+        "isLive": false,
+        "id": 17654
+      },
+      "season": {
+        "name": "Premier League 24/25",
+        "year": "24/25",
+        "editor": false,
+        "id": 65071
+      },
+      "roundInfo": {
+        "round": 30
+      },
+      "customId": "DufbsFhIc",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Kenya Commercial Bank",
+        "slug": "kenya-commercial-bank",
+        "shortName": "KCB ",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1887,
+        "nameCode": "KCB",
+        "national": false,
+        "type": 0,
+        "id": 138478,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#00dd00",
+          "secondary": "#004165",
+          "text": "#004165"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "كينيا كوميرشال بنك",
+            "hi": "केन्या कमर्शियल बैंक"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "awayTeam": {
+        "id": 332880,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "name": "Shabana FC",
+        "slug": "shabana-fc",
+        "shortName": "Shabana FC",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2265,
+        "nameCode": "SHA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "crowdsourcingDataDisplayEnabled": false,
+      "id": 12656781,
+      "startTimestamp": 1746360000,
+      "slug": "shabana-fc-kenya-commercial-bank",
+      "finalResultOnly": false,
+      "feedLocked": false,
+      "isEditor": false
+    },
+    {
+      "tournament": {
+        "name": "Premier League",
+        "slug": "premier-league",
+        "category": {
+          "id": 805,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "name": "Kenya",
+          "slug": "kenya",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "flag": "kenya",
+          "alpha2": "KE"
+        },
+        "uniqueTournament": {
+          "name": "Kenyan Premier League",
+          "slug": "premier-league",
+          "primaryColorHex": "#eb1a23",
+          "secondaryColorHex": "#3ebc7a",
+          "category": {
+            "id": 805,
+            "country": {
+              "alpha2": "KE",
+              "alpha3": "KEN",
+              "name": "Kenya",
+              "slug": "kenya"
+            },
+            "name": "Kenya",
+            "slug": "kenya",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "flag": "kenya",
+            "alpha2": "KE"
+          },
+          "userCount": 6133,
+          "id": 1644,
+          "country": {},
+          "hasPerformanceGraphFeature": true,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "isGroup": false,
+        "isLive": false,
+        "id": 17654
+      },
+      "season": {
+        "name": "Premier League 24/25",
+        "year": "24/25",
+        "editor": false,
+        "id": 65071
+      },
+      "roundInfo": {
+        "round": 31
+      },
+      "customId": "KzdcsFhIc",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Shabana FC",
+        "slug": "shabana-fc",
+        "shortName": "Shabana FC",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2265,
+        "nameCode": "SHA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 332880,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "id": 258735,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "name": "Bidco United",
+        "slug": "bidco-united",
+        "shortName": "Bidco United",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1224,
+        "nameCode": "BID",
+        "national": false,
+        "type": 0,
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#ffffff",
+          "secondary": "#4ba7df",
+          "text": "#4ba7df"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "بيدكو يونايتد",
+            "hi": "बिडको यूनाइटेड",
+            "bn": "বিডকো ইউনাইটেড"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "crowdsourcingDataDisplayEnabled": false,
+      "id": 12656785,
+      "startTimestamp": 1746878400,
+      "slug": "shabana-fc-bidco-united",
+      "finalResultOnly": false,
+      "feedLocked": false,
+      "isEditor": false
+    },
+    {
+      "tournament": {
+        "name": "Premier League",
+        "slug": "premier-league",
+        "category": {
+          "id": 805,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "name": "Kenya",
+          "slug": "kenya",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "flag": "kenya",
+          "alpha2": "KE"
+        },
+        "uniqueTournament": {
+          "name": "Kenyan Premier League",
+          "slug": "premier-league",
+          "primaryColorHex": "#eb1a23",
+          "secondaryColorHex": "#3ebc7a",
+          "category": {
+            "id": 805,
+            "country": {
+              "alpha2": "KE",
+              "alpha3": "KEN",
+              "name": "Kenya",
+              "slug": "kenya"
+            },
+            "name": "Kenya",
+            "slug": "kenya",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "flag": "kenya",
+            "alpha2": "KE"
+          },
+          "userCount": 6133,
+          "id": 1644,
+          "country": {},
+          "hasPerformanceGraphFeature": true,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "isGroup": false,
+        "isLive": false,
+        "id": 17654
+      },
+      "season": {
+        "name": "Premier League 24/25",
+        "year": "24/25",
+        "editor": false,
+        "id": 65071
+      },
+      "roundInfo": {
+        "round": 32
+      },
+      "customId": "FhIcsKaBg",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Shabana FC",
+        "slug": "shabana-fc",
+        "shortName": "Shabana FC",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2265,
+        "nameCode": "SHA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 332880,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "id": 815035,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "name": "Mara Sugar FC",
+        "slug": "mara-sugar-fc",
+        "shortName": "Mara Sugar FC",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 653,
+        "nameCode": "MAR",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "crowdsourcingDataDisplayEnabled": false,
+      "id": 12656793,
+      "startTimestamp": 1747483200,
+      "slug": "mara-sugar-fc-shabana-fc",
+      "finalResultOnly": false,
+      "feedLocked": false,
+      "isEditor": false
+    },
+    {
+      "tournament": {
+        "name": "Premier League",
+        "slug": "premier-league",
+        "category": {
+          "id": 805,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "name": "Kenya",
+          "slug": "kenya",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "flag": "kenya",
+          "alpha2": "KE"
+        },
+        "uniqueTournament": {
+          "name": "Kenyan Premier League",
+          "slug": "premier-league",
+          "primaryColorHex": "#eb1a23",
+          "secondaryColorHex": "#3ebc7a",
+          "category": {
+            "id": 805,
+            "country": {
+              "alpha2": "KE",
+              "alpha3": "KEN",
+              "name": "Kenya",
+              "slug": "kenya"
+            },
+            "name": "Kenya",
+            "slug": "kenya",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "flag": "kenya",
+            "alpha2": "KE"
+          },
+          "userCount": 6133,
+          "id": 1644,
+          "country": {},
+          "hasPerformanceGraphFeature": true,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "isGroup": false,
+        "isLive": false,
+        "id": 17654
+      },
+      "season": {
+        "name": "Premier League 24/25",
+        "year": "24/25",
+        "editor": false,
+        "id": 65071
+      },
+      "roundInfo": {
+        "round": 33
+      },
+      "customId": "DbzcsFhIc",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Kenya Police",
+        "slug": "kenya-police",
+        "shortName": "Kenya Police",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1941,
+        "nameCode": "KEN",
+        "national": false,
+        "type": 0,
+        "id": 291904,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        },
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "شرطة كينيا",
+            "hi": "केन्या पुलिस",
+            "bn": "কেনিয়া পুলিশ"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "awayTeam": {
+        "id": 332880,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "name": "Shabana FC",
+        "slug": "shabana-fc",
+        "shortName": "Shabana FC",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2265,
+        "nameCode": "SHA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "crowdsourcingDataDisplayEnabled": false,
+      "id": 12656809,
+      "startTimestamp": 1749902400,
+      "slug": "shabana-fc-kenya-police",
+      "finalResultOnly": false,
+      "feedLocked": false,
+      "isEditor": false
+    },
+    {
+      "tournament": {
+        "name": "Premier League",
+        "slug": "premier-league",
+        "category": {
+          "id": 805,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "name": "Kenya",
+          "slug": "kenya",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "flag": "kenya",
+          "alpha2": "KE"
+        },
+        "uniqueTournament": {
+          "name": "Kenyan Premier League",
+          "slug": "premier-league",
+          "primaryColorHex": "#eb1a23",
+          "secondaryColorHex": "#3ebc7a",
+          "category": {
+            "id": 805,
+            "country": {
+              "alpha2": "KE",
+              "alpha3": "KEN",
+              "name": "Kenya",
+              "slug": "kenya"
+            },
+            "name": "Kenya",
+            "slug": "kenya",
+            "sport": {
+              "name": "Football",
+              "slug": "football",
+              "id": 1
+            },
+            "flag": "kenya",
+            "alpha2": "KE"
+          },
+          "userCount": 6133,
+          "id": 1644,
+          "country": {},
+          "hasPerformanceGraphFeature": true,
+          "hasEventPlayerStatistics": false,
+          "displayInverseHomeAwayTeams": false
+        },
+        "priority": 0,
+        "isGroup": false,
+        "isLive": false,
+        "id": 17654
+      },
+      "season": {
+        "name": "Premier League 24/25",
+        "year": "24/25",
+        "editor": false,
+        "id": 65071
+      },
+      "roundInfo": {
+        "round": 34
+      },
+      "customId": "YufbsFhIc",
+      "status": {
+        "code": 0,
+        "description": "Not started",
+        "type": "notstarted"
+      },
+      "homeTeam": {
+        "name": "Shabana FC",
+        "slug": "shabana-fc",
+        "shortName": "Shabana FC",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 2265,
+        "nameCode": "SHA",
+        "disabled": false,
+        "national": false,
+        "type": 0,
+        "id": 332880,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#374df5",
+          "secondary": "#374df5",
+          "text": "#ffffff"
+        }
+      },
+      "awayTeam": {
+        "id": 138498,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "name": "Ulinzi Stars",
+        "slug": "ulinzi-stars",
+        "shortName": "Ulinzi Stars",
+        "gender": "M",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "userCount": 1077,
+        "nameCode": "ULS",
+        "national": false,
+        "type": 0,
+        "entityType": "team",
+        "subTeams": [],
+        "teamColors": {
+          "primary": "#ff0000",
+          "secondary": "#ffffff",
+          "text": "#ffffff"
+        }
+      },
+      "homeScore": {},
+      "awayScore": {},
+      "time": {},
+      "changes": {
+        "changeTimestamp": 0
+      },
+      "hasGlobalHighlights": false,
+      "crowdsourcingDataDisplayEnabled": false,
+      "id": 12656707,
+      "startTimestamp": 1750593600,
+      "slug": "shabana-fc-ulinzi-stars",
+      "finalResultOnly": false,
+      "feedLocked": false,
+      "isEditor": false
+    }
+  ],
+  "hasNextPage": false
+}

@@ -1,0 +1,948 @@
+[
+  {
+    "tournament": {
+      "name": "Premier League",
+      "slug": "premier-league",
+      "category": {
+        "id": 805,
+        "country": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "name": "Kenya",
+          "slug": "kenya"
+        },
+        "name": "Kenya",
+        "slug": "kenya",
+        "sport": {
+          "name": "Football",
+          "slug": "football",
+          "id": 1
+        },
+        "flag": "kenya",
+        "alpha2": "KE"
+      },
+      "uniqueTournament": {
+        "name": "Kenyan Premier League",
+        "slug": "premier-league",
+        "primaryColorHex": "#eb1a23",
+        "secondaryColorHex": "#3ebc7a",
+        "category": {
+          "id": 805,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "name": "Kenya",
+          "slug": "kenya",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "flag": "kenya",
+          "alpha2": "KE"
+        },
+        "userCount": 5964,
+        "hasPerformanceGraphFeature": true,
+        "id": 1644,
+        "country": {},
+        "displayInverseHomeAwayTeams": false,
+        "fieldTranslations": {
+          "nameTranslation": {
+            "ar": "الدوري الكيني الممتاز لكرة القدم",
+            "hi": "केन्यन प्रीमियर लीग",
+            "bn": "কেনিয়া প্রিমিয়ার লীগ"
+          },
+          "shortNameTranslation": {}
+        }
+      },
+      "priority": 0,
+      "isGroup": false,
+      "isLive": false,
+      "id": 17654,
+      "fieldTranslations": {
+        "nameTranslation": {
+          "ar": "الدوري الإنجليزي الممتاز",
+          "hi": "प्रीमियर लीग",
+          "bn": "প্রিমিয়ার লীগ"
+        },
+        "shortNameTranslation": {}
+      }
+    },
+    "name": "Premier League 24/25",
+    "type": "total",
+    "descriptions": [],
+    "tieBreakingRule": {
+      "text": "In the event that two (or more) teams have an equal number of points, the following rules break the tie:\n1. Goal difference\n2. Goals scored",
+      "id": 1238
+    },
+    "rows": [
+      {
+        "team": {
+          "name": "Kenya Police",
+          "slug": "kenya-police",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2238,
+          "nameCode": "KEN",
+          "national": false,
+          "type": 0,
+          "id": 291904,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#374df5",
+            "secondary": "#374df5",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "شرطة كينيا",
+              "hi": "केन्या पुलिस",
+              "bn": "কেনিয়া পুলিশ"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "descriptions": [],
+        "promotion": {
+          "text": "Champions League",
+          "id": 804
+        },
+        "position": 1,
+        "matches": 33,
+        "wins": 18,
+        "scoresFor": 37,
+        "scoresAgainst": 16,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1233451,
+        "losses": 5,
+        "draws": 10,
+        "points": 64,
+        "scoreDiffFormatted": "+21"
+      },
+      {
+        "team": {
+          "name": "Gor Mahia FC",
+          "slug": "gor-mahia-fc",
+          "shortName": "Gor Mahia",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 9696,
+          "nameCode": "GOR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 134306,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#008000",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي كرة القدم غور ماهيا",
+              "ru": "Гор Махиа",
+              "hi": "गोर माहिया ऍफ़सी"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "descriptions": [],
+        "position": 2,
+        "matches": 33,
+        "wins": 16,
+        "scoresFor": 46,
+        "scoresAgainst": 23,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205782,
+        "losses": 7,
+        "draws": 10,
+        "points": 58,
+        "scoreDiffFormatted": "+23"
+      },
+      {
+        "team": {
+          "name": "Kakamega Homeboyz",
+          "slug": "kakamega-homeboyz",
+          "shortName": "Kakamega Homeboyz",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1218,
+          "nameCode": "KAH",
+          "national": false,
+          "type": 0,
+          "id": 213604,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#fee34f",
+            "secondary": "#2b924d",
+            "text": "#2b924d"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "hi": "काकामेगा होमबोय्ज़"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "descriptions": [],
+        "position": 3,
+        "matches": 33,
+        "wins": 15,
+        "scoresFor": 39,
+        "scoresAgainst": 27,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205783,
+        "losses": 6,
+        "draws": 12,
+        "points": 57,
+        "scoreDiffFormatted": "+12"
+      },
+      {
+        "team": {
+          "name": "Tusker Football Club",
+          "slug": "tusker",
+          "shortName": "Tusker FC",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2998,
+          "nameCode": "TUS",
+          "national": false,
+          "type": 0,
+          "id": 138496,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#ffdf00",
+            "secondary": "#000000",
+            "text": "#000000"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "توسكر فوتبال كلاب",
+              "hi": "टस्कर फूटबल क्लब"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "descriptions": [],
+        "position": 4,
+        "matches": 33,
+        "wins": 15,
+        "scoresFor": 41,
+        "scoresAgainst": 36,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205794,
+        "losses": 7,
+        "draws": 11,
+        "points": 56,
+        "scoreDiffFormatted": "+5"
+      },
+      {
+        "team": {
+          "name": "Shabana FC",
+          "slug": "shabana-fc",
+          "shortName": "Shabana FC",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 3809,
+          "nameCode": "SHA",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 332880,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#374df5",
+            "secondary": "#374df5",
+            "text": "#ffffff"
+          }
+        },
+        "descriptions": [],
+        "position": 5,
+        "matches": 33,
+        "wins": 14,
+        "scoresFor": 40,
+        "scoresAgainst": 28,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205792,
+        "losses": 9,
+        "draws": 10,
+        "points": 52,
+        "scoreDiffFormatted": "+12"
+      },
+      {
+        "team": {
+          "name": "AFC Leopards SC",
+          "slug": "afc-leopards-sc",
+          "shortName": "Leopards",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2964,
+          "nameCode": "LDS",
+          "national": false,
+          "type": 0,
+          "id": 76433,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#0000ff",
+            "text": "#0000ff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ru": "Леопардс СК"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "descriptions": [],
+        "position": 6,
+        "matches": 33,
+        "wins": 12,
+        "scoresFor": 41,
+        "scoresAgainst": 28,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205778,
+        "losses": 7,
+        "draws": 14,
+        "points": 50,
+        "scoreDiffFormatted": "+13"
+      },
+      {
+        "team": {
+          "name": "Sofapaka",
+          "slug": "sofapaka",
+          "shortName": "Sofapaka",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1330,
+          "nameCode": "SOF",
+          "national": false,
+          "type": 0,
+          "id": 138488,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#0000ff",
+            "text": "#0000ff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سوفاباكا",
+              "hi": "सोफापाका",
+              "bn": "সোফাপাকা"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "descriptions": [],
+        "position": 7,
+        "matches": 33,
+        "wins": 11,
+        "scoresFor": 36,
+        "scoresAgainst": 26,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205793,
+        "losses": 9,
+        "draws": 13,
+        "points": 46,
+        "scoreDiffFormatted": "+10"
+      },
+      {
+        "team": {
+          "name": "Bandari FC",
+          "slug": "bandari-fc",
+          "shortName": "Bandari",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1588,
+          "nameCode": "BAN",
+          "national": false,
+          "type": 0,
+          "id": 138474,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#3050c6",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي كرة القدم بانداري",
+              "hi": "बान्दारी ऍफ़सी"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "descriptions": [],
+        "position": 8,
+        "matches": 33,
+        "wins": 10,
+        "scoresFor": 25,
+        "scoresAgainst": 29,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205779,
+        "losses": 10,
+        "draws": 13,
+        "points": 43,
+        "scoreDiffFormatted": "-4"
+      },
+      {
+        "team": {
+          "name": "Kenya Commercial Bank",
+          "slug": "kenya-commercial-bank",
+          "shortName": "KCB ",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 2072,
+          "nameCode": "KCB",
+          "national": false,
+          "type": 0,
+          "id": 138478,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#00dd00",
+            "secondary": "#004165",
+            "text": "#004165"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كينيا كوميرشال بنك",
+              "hi": "केन्या कमर्शियल बैंक"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "descriptions": [],
+        "position": 9,
+        "matches": 33,
+        "wins": 10,
+        "scoresFor": 36,
+        "scoresAgainst": 35,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205785,
+        "losses": 12,
+        "draws": 11,
+        "points": 41,
+        "scoreDiffFormatted": "+1"
+      },
+      {
+        "team": {
+          "name": "Mathare United",
+          "slug": "mathare-united",
+          "shortName": "Mathare Utd",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 904,
+          "nameCode": "MAU",
+          "national": false,
+          "type": 0,
+          "id": 138482,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#ffff00",
+            "secondary": "#006600",
+            "text": "#006600"
+          }
+        },
+        "descriptions": [],
+        "position": 10,
+        "matches": 33,
+        "wins": 10,
+        "scoresFor": 26,
+        "scoresAgainst": 40,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205788,
+        "losses": 12,
+        "draws": 11,
+        "points": 41,
+        "scoreDiffFormatted": "-14"
+      },
+      {
+        "team": {
+          "name": "Kariobangi Sharks",
+          "slug": "kariobangi-sharks",
+          "shortName": "Kariobangi Sharks",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1208,
+          "nameCode": "KAR",
+          "national": false,
+          "type": 0,
+          "id": 246032,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#45c283",
+            "secondary": "#f8d815",
+            "text": "#f8d815"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كاريوبانجي شاركس",
+              "bn": "কারিওবাঙ্গি হাঙর"
+            },
+            "shortNameTranslation": {
+              "hi": "कारियोबांगी शार्क्स"
+            }
+          }
+        },
+        "descriptions": [],
+        "position": 11,
+        "matches": 33,
+        "wins": 7,
+        "scoresFor": 25,
+        "scoresAgainst": 28,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205784,
+        "losses": 10,
+        "draws": 16,
+        "points": 37,
+        "scoreDiffFormatted": "-3"
+      },
+      {
+        "team": {
+          "name": "Ulinzi Stars",
+          "slug": "ulinzi-stars",
+          "shortName": "Ulinzi Stars",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1182,
+          "nameCode": "ULS",
+          "national": false,
+          "type": 0,
+          "id": 138498,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#ff0000",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "descriptions": [],
+        "position": 12,
+        "matches": 33,
+        "wins": 8,
+        "scoresFor": 28,
+        "scoresAgainst": 32,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205795,
+        "losses": 12,
+        "draws": 13,
+        "points": 37,
+        "scoreDiffFormatted": "-4"
+      },
+      {
+        "team": {
+          "name": "Mara Sugar FC",
+          "slug": "mara-sugar-fc",
+          "shortName": "Mara Sugar FC",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 904,
+          "nameCode": "MAR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 815035,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#374df5",
+            "secondary": "#374df5",
+            "text": "#ffffff"
+          }
+        },
+        "descriptions": [],
+        "position": 13,
+        "matches": 33,
+        "wins": 8,
+        "scoresFor": 33,
+        "scoresAgainst": 37,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205787,
+        "losses": 13,
+        "draws": 12,
+        "points": 36,
+        "scoreDiffFormatted": "-4"
+      },
+      {
+        "team": {
+          "name": "FC Talanta",
+          "slug": "fc-talanta",
+          "shortName": "FC Talanta",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1219,
+          "nameCode": "TAL",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 310815,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#374df5",
+            "secondary": "#374df5",
+            "text": "#ffffff"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "hi": "ऍफ़सी टालंता"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "descriptions": [],
+        "position": 14,
+        "matches": 33,
+        "wins": 9,
+        "scoresFor": 33,
+        "scoresAgainst": 45,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205781,
+        "losses": 16,
+        "draws": 8,
+        "points": 35,
+        "scoreDiffFormatted": "-12"
+      },
+      {
+        "team": {
+          "name": "Posta Rangers",
+          "slug": "posta-rangers",
+          "shortName": "Posta Rangers",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1203,
+          "nameCode": "PRA",
+          "national": false,
+          "type": 0,
+          "id": 213605,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#c71328",
+            "secondary": "#ffffff",
+            "text": "#ffffff"
+          }
+        },
+        "descriptions": [],
+        "position": 15,
+        "matches": 33,
+        "wins": 8,
+        "scoresFor": 35,
+        "scoresAgainst": 48,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205791,
+        "losses": 15,
+        "draws": 10,
+        "points": 34,
+        "scoreDiffFormatted": "-13"
+      },
+      {
+        "team": {
+          "name": "Nairobi City Stars FC",
+          "slug": "nairobi-city-stars-fc",
+          "shortName": "City Stars",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1115,
+          "nameCode": "NCS",
+          "national": false,
+          "type": 0,
+          "id": 138486,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#273887",
+            "secondary": "#f74f00",
+            "text": "#f74f00"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "نادي كرة القدم نايروبي سيتي ستارز",
+              "hi": "नाइरोबी"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "descriptions": [],
+        "promotion": {
+          "text": "Relegation Playoffs",
+          "id": 45
+        },
+        "position": 16,
+        "matches": 33,
+        "wins": 8,
+        "scoresFor": 26,
+        "scoresAgainst": 41,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205790,
+        "losses": 15,
+        "draws": 10,
+        "points": 34,
+        "scoreDiffFormatted": "-15"
+      },
+      {
+        "team": {
+          "name": "Muranga Seal",
+          "slug": "muranga-seal",
+          "shortName": "Muranga Seal",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1231,
+          "nameCode": "MUR",
+          "disabled": false,
+          "national": false,
+          "type": 0,
+          "id": 332427,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#374df5",
+            "secondary": "#374df5",
+            "text": "#ffffff"
+          }
+        },
+        "descriptions": [],
+        "promotion": {
+          "text": "Relegation",
+          "id": 3
+        },
+        "position": 17,
+        "matches": 33,
+        "wins": 8,
+        "scoresFor": 24,
+        "scoresAgainst": 40,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205789,
+        "losses": 15,
+        "draws": 10,
+        "points": 34,
+        "scoreDiffFormatted": "-16"
+      },
+      {
+        "team": {
+          "name": "Bidco United",
+          "slug": "bidco-united",
+          "gender": "M",
+          "sport": {
+            "name": "Football",
+            "slug": "football",
+            "id": 1
+          },
+          "userCount": 1420,
+          "nameCode": "BID",
+          "national": false,
+          "type": 0,
+          "id": 258735,
+          "country": {
+            "alpha2": "KE",
+            "alpha3": "KEN",
+            "name": "Kenya",
+            "slug": "kenya"
+          },
+          "teamColors": {
+            "primary": "#ffffff",
+            "secondary": "#4ba7df",
+            "text": "#4ba7df"
+          },
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "بيدكو يونايتد",
+              "hi": "बिडको यूनाइटेड",
+              "bn": "বিডকো ইউনাইটেড"
+            },
+            "shortNameTranslation": {}
+          }
+        },
+        "descriptions": [],
+        "promotion": {
+          "text": "Relegation",
+          "id": 3
+        },
+        "position": 18,
+        "matches": 33,
+        "wins": 6,
+        "scoresFor": 19,
+        "scoresAgainst": 31,
+        "secondaryScoresFor": 0,
+        "secondaryScoresAgainst": 0,
+        "id": 1205780,
+        "losses": 13,
+        "draws": 14,
+        "points": 32,
+        "scoreDiffFormatted": "-12"
+      }
+    ],
+    "id": 132068,
+    "updatedAtTimestamp": 1723025186
+  }
+]
